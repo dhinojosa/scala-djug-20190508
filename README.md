@@ -2,10 +2,10 @@
 
 ## About Speaker
 
-Daniel Hinojosa
-https://www.evolutionnext.com
-@dhinojosa
-Programmer, Speaker, Trainer
+Daniel Hinojosa  
+https://www.evolutionnext.com  
+@dhinojosa  
+Programmer, Speaker, Trainer  
 
 ## Want more in depth? Have Safari Account?
 
