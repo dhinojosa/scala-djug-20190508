@@ -19,6 +19,27 @@ https://github.com/dhinojosa/scala-djug-20190508
 
 * See where everyone is with Scala?
 * Question Based Excitement
+* Traits
+* Functions
+    * `map`
+    * `filter`
+    * `flatMap`
+    * `zip`
+    * `foreach`
+    * `reduce`
+    * and more
+* Implicits
+    * values
+    * conversions
+    * wrappers
+    * classes
+* Type Classes
+* Type Classes with Cats
+* Challenge
+
+
+## Content we will learn along the way
+
 * Classes
     * Constructors
     * `equals` and `hashCode`
@@ -29,17 +50,3 @@ https://github.com/dhinojosa/scala-djug-20190508
 * Tuples
 * Options
 * Collections
-* Functions
-    * `map`
-    * `filter`
-    * `flatMap`
-    * `zip`
-    * `foreach`
-    * `reduce`
-* Implicits
-    * values
-    * conversions
-    * wrappers
-    * classes
-* Type Classes
-* Type Classes with Cats
