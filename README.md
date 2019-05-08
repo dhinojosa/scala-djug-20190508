@@ -8,13 +8,13 @@ https://www.evolutionnext.com
 @dhinojosa  
 Programmer, Speaker, Trainer  
 
+### Repository
+
+https://bit.ly/2H92V6f
+
 ### Want more in depth? Have Safari Account?
 
 https://learning.oreilly.com/videos/beginning-scala-programming/9781771374811
-
-### Repository
-
-https://github.com/dhinojosa/scala-djug-20190508
 
 ### Agenda
 
