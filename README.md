@@ -1,21 +1,22 @@
-# Scala Denver Java Users Group
+# Denver Java Users Group 
+## Scala Functions and Typeclasses
 
-## About Speaker
+### About Speaker
 
 Daniel Hinojosa  
 https://www.evolutionnext.com  
 @dhinojosa  
 Programmer, Speaker, Trainer  
 
-## Want more in depth? Have Safari Account?
+### Want more in depth? Have Safari Account?
 
 https://learning.oreilly.com/videos/beginning-scala-programming/9781771374811
 
-## Repository
+### Repository
 
 https://github.com/dhinojosa/scala-djug-20190508
 
-## Agenda
+### Agenda
 
 * See where everyone is with Scala?
 * Question Based Excitement
@@ -41,7 +42,7 @@ https://github.com/dhinojosa/scala-djug-20190508
     * `Functor` _com.xyzcorp.FunctorSpec_
 * Challenge _com.xyzcorp.ChallengeSpec_
 
-## Content we may learn along the way
+### Content we may learn along the way
 
 * Classes
     * Constructors
