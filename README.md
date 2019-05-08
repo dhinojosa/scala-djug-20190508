@@ -20,7 +20,7 @@ https://github.com/dhinojosa/scala-djug-20190508
 * See where everyone is with Scala?
 * Question Based Excitement
 * Traits
-* Functions
+* Functions _com.xyzcorp.FunctionsSpec_
     * `map`
     * `filter`
     * `flatMap`
@@ -28,17 +28,20 @@ https://github.com/dhinojosa/scala-djug-20190508
     * `foreach`
     * `reduce`
     * and more
-* Implicits
+* Implicits _com.xyzcorp.ImplicitsSpec_
     * values
     * conversions
     * wrappers
     * classes
-* Type Classes
-* Type Classes with Cats
-* Challenge
+* Type Classes *_com.xyzcorp.ImplicitsSpec_*
+* Type Classes with Cats 
+    * `Eq` _com.xyzcorp.EqSpec_
+    * `Show` _com.xyzcorp.ShowSpec_
+    * `Monoid` _com.xyzcorp.MonoidSpec_
+    * `Functor` _com.xyzcorp.FunctorSpec_
+* Challenge _com.xyzcorp.ChallengeSpec_
 
-
-## Content we will learn along the way
+## Content we may learn along the way
 
 * Classes
     * Constructors
